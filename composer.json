@@ -1,0 +1,17 @@
+{
+    "name": "alber/cursocompletophpcomposer",
+    "authors": [
+        {
+            "name": "Alberto Gomes da Silva",
+            "email": "albertogomesdasilva@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\":"app"
+        },
+        "files": [
+        ]
+    }
+}
