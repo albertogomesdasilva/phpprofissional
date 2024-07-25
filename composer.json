@@ -6,7 +6,10 @@
             "email": "albertogomesdasilva@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "league/plates": "^3.5",
+        "symfony/var-dumper": "^6.4"
+    },
     "autoload": {
         "psr-4": {
             "app\\":"app"

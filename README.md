@@ -46,3 +46,8 @@ composer.json
 
 php -S localhost:8000 -t public"# phpprofissional" 
 "# phpprofissional" 
+
+### BAIXAR DEPENDÊNCIAS
+composer require
+ plates -> sistema de templates [0]
+ var-dumper [0]
